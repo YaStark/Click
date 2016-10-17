@@ -1,0 +1,21 @@
+C:\Documents and Settings\Администратор\Local Settings\Application Data\Temporary Projects\Click\bin\Debug\Click.exe
+C:\Documents and Settings\Администратор\Local Settings\Application Data\Temporary Projects\Click\bin\Debug\Click.pdb
+C:\Documents and Settings\Администратор\Local Settings\Application Data\Temporary Projects\Click\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Администратор\Local Settings\Application Data\Temporary Projects\Click\obj\Debug\Click.OptionsForm.resources
+C:\Documents and Settings\Администратор\Local Settings\Application Data\Temporary Projects\Click\obj\Debug\Click.Properties.Resources.resources
+C:\Documents and Settings\Администратор\Local Settings\Application Data\Temporary Projects\Click\obj\Debug\Click.csproj.GenerateResource.Cache
+C:\Documents and Settings\Администратор\Local Settings\Application Data\Temporary Projects\Click\obj\Debug\Click.exe
+C:\Documents and Settings\Администратор\Local Settings\Application Data\Temporary Projects\Click\obj\Debug\Click.pdb
+D:\Documents\Visual Studio 2008\Projects\Click\Click\obj\Debug\Click.exe
+D:\Documents\Visual Studio 2008\Projects\Click\Click\obj\Debug\Click.pdb
+D:\Documents\Visual Studio 2008\Projects\Click\Click\bin\Debug\Click.exe
+D:\Documents\Visual Studio 2008\Projects\Click\Click\bin\Debug\Click.pdb
+D:\Documents\Visual Studio 2008\Projects\Click\Click\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2008\Projects\Click\Click\obj\Debug\Click.OptionsForm.resources
+D:\Documents\Visual Studio 2008\Projects\Click\Click\obj\Debug\Click.Properties.Resources.resources
+D:\Documents\Visual Studio 2008\Projects\Click\Click\obj\Debug\Click.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2008\Projects\Click\Click\obj\Debug\Click.ParamCtrl.resources
+D:\Documents\Visual Studio 2008\Projects\Click\Click\bin\Debug\Click.exe.config
+D:\temp\Click\Click\bin\Debug\Click.exe.config
+D:\temp\Click\Click\obj\Debug\Click.exe
+D:\temp\Click\Click\obj\Debug\Click.pdb

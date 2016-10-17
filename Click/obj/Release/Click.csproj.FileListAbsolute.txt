@@ -1,0 +1,14 @@
+C:\Documents and Settings\Администратор\Local Settings\Application Data\Temporary Projects\Click\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Администратор\Local Settings\Application Data\Temporary Projects\Click\obj\Release\Click.OptionsForm.resources
+C:\Documents and Settings\Администратор\Local Settings\Application Data\Temporary Projects\Click\obj\Release\Click.Properties.Resources.resources
+C:\Documents and Settings\Администратор\Local Settings\Application Data\Temporary Projects\Click\obj\Release\Click.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2008\Projects\Click\Click\bin\Release\Click.exe
+D:\Documents\Visual Studio 2008\Projects\Click\Click\bin\Release\Click.pdb
+D:\Documents\Visual Studio 2008\Projects\Click\Click\obj\Release\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2008\Projects\Click\Click\obj\Release\Click.OptionsForm.resources
+D:\Documents\Visual Studio 2008\Projects\Click\Click\obj\Release\Click.Properties.Resources.resources
+D:\Documents\Visual Studio 2008\Projects\Click\Click\obj\Release\Click.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2008\Projects\Click\Click\obj\Release\Click.exe
+D:\Documents\Visual Studio 2008\Projects\Click\Click\obj\Release\Click.pdb
+D:\Documents\Visual Studio 2008\Projects\Click\Click\obj\Release\Click.ParamCtrl.resources
+D:\Documents\Visual Studio 2008\Projects\Click\Click\bin\Release\Click.exe.config
